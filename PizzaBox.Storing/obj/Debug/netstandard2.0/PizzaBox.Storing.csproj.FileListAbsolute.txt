@@ -1,0 +1,12 @@
+/home/hop/revature/project-challenges/p0/PizzaBox.Storing/bin/Debug/netstandard2.0/PizzaBox.Storing.deps.json
+/home/hop/revature/project-challenges/p0/PizzaBox.Storing/bin/Debug/netstandard2.0/PizzaBox.Storing.dll
+/home/hop/revature/project-challenges/p0/PizzaBox.Storing/bin/Debug/netstandard2.0/PizzaBox.Storing.pdb
+/home/hop/revature/project-challenges/p0/PizzaBox.Storing/bin/Debug/netstandard2.0/PizzaBox.Housing.dll
+/home/hop/revature/project-challenges/p0/PizzaBox.Storing/bin/Debug/netstandard2.0/PizzaBox.Housing.pdb
+/home/hop/revature/project-challenges/p0/PizzaBox.Storing/obj/Debug/netstandard2.0/PizzaBox.Storing.csprojAssemblyReference.cache
+/home/hop/revature/project-challenges/p0/PizzaBox.Storing/obj/Debug/netstandard2.0/PizzaBox.Storing.AssemblyInfoInputs.cache
+/home/hop/revature/project-challenges/p0/PizzaBox.Storing/obj/Debug/netstandard2.0/PizzaBox.Storing.AssemblyInfo.cs
+/home/hop/revature/project-challenges/p0/PizzaBox.Storing/obj/Debug/netstandard2.0/PizzaBox.Storing.csproj.CoreCompileInputs.cache
+/home/hop/revature/project-challenges/p0/PizzaBox.Storing/obj/Debug/netstandard2.0/PizzaBox.Storing.csproj.CopyComplete
+/home/hop/revature/project-challenges/p0/PizzaBox.Storing/obj/Debug/netstandard2.0/PizzaBox.Storing.dll
+/home/hop/revature/project-challenges/p0/PizzaBox.Storing/obj/Debug/netstandard2.0/PizzaBox.Storing.pdb

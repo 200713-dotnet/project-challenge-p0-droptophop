@@ -1,0 +1,9 @@
+/home/hop/revature/project-challenges/p0/PizzaBox.Housing/bin/Debug/netstandard2.0/PizzaBox.Housing.deps.json
+/home/hop/revature/project-challenges/p0/PizzaBox.Housing/bin/Debug/netstandard2.0/PizzaBox.Housing.dll
+/home/hop/revature/project-challenges/p0/PizzaBox.Housing/bin/Debug/netstandard2.0/PizzaBox.Housing.pdb
+/home/hop/revature/project-challenges/p0/PizzaBox.Housing/obj/Debug/netstandard2.0/PizzaBox.Housing.csprojAssemblyReference.cache
+/home/hop/revature/project-challenges/p0/PizzaBox.Housing/obj/Debug/netstandard2.0/PizzaBox.Housing.AssemblyInfoInputs.cache
+/home/hop/revature/project-challenges/p0/PizzaBox.Housing/obj/Debug/netstandard2.0/PizzaBox.Housing.AssemblyInfo.cs
+/home/hop/revature/project-challenges/p0/PizzaBox.Housing/obj/Debug/netstandard2.0/PizzaBox.Housing.csproj.CoreCompileInputs.cache
+/home/hop/revature/project-challenges/p0/PizzaBox.Housing/obj/Debug/netstandard2.0/PizzaBox.Housing.dll
+/home/hop/revature/project-challenges/p0/PizzaBox.Housing/obj/Debug/netstandard2.0/PizzaBox.Housing.pdb

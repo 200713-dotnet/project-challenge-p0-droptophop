@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ysvnAeewYrzJME8O5qMOpXmXqgySxc45NR46ggzVvG0Ia3Oq5MsMxf1Ag3o1OE2+rcvzxda+AkeR+GOVmnguzg==",
+  "success": true,
+  "projectFilePath": "/home/hop/revature/project-challenges/p0/PizzaBox.Housing/PizzaBox.Housing.csproj",
+  "expectedPackageFiles": [
+    "/home/hop/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/hop/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
